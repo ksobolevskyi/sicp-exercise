@@ -1,3 +1,5 @@
+#lang racket
+
 (define (sum a b) (+ a b))
 
 (define (square a) (* a a))
